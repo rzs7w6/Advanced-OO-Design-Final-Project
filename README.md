@@ -7,11 +7,9 @@
 ## Table of Contents
 * #### [Language purpose/genesis](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/LanguagePurpose.md)
 
-* #### Unique features of the language
-  * #### Does the language have any particularly unique features?
-* #### Name spaces
-  * #### How are name spaces implemented?
-  * #### How are name spaces used?
+* #### [Unique features of the language](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/UniqueFeatures.md)
+* #### [Name spaces](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/NameSpaces.md)
+
 * #### Types
     * #### What types does the language support?
     * #### Are both reference and value types supported?
