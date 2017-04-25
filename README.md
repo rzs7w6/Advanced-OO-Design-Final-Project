@@ -5,7 +5,7 @@
 #### Project Repo for: Jack Martin, Kenrick Niedbalski, Jeremy Warder, and Robert Spalding.
 --------------------------------
 ## Table of Contents
-* #### [Language purpose/genesis](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/LanguagePurpose.md)
+* #### [Language purpose/genesis](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/LanguagePurpose.md)
 
 * #### Unique features of the language
   * #### Does the language have any particularly unique features?
