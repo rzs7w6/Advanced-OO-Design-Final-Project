@@ -5,10 +5,8 @@
 #### Project Repo for: Jack Martin, Kenrick Niedbalski, Jeremy Warder, and Robert Spalding.
 --------------------------------
 ## Table of Contents
-* #### Language purpose/genesis
-  * #### Why was the language created?
-  * #### What problems was the language trying to address?
-  * #### Is the language a reaction to a previous language or a replacement for another language?
+* #### [Language purpose/genesis](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/LanguagePurpose.md)
+
 * #### Unique features of the language
   * #### Does the language have any particularly unique features?
 * #### Name spaces
