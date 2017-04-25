@@ -34,3 +34,8 @@
 * Only nil and false evaluate to false in conditional statements:
 
   * if(0) --> will be deemed true and run the given block of code
+
+  ```Ruby
+  if 0  
+    puts "True!"
+  ```
