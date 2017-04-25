@@ -14,7 +14,7 @@
     * #### What types does the language support?
     * #### Are both reference and value types supported?
     * #### Can new value types be created?
-* #### Classes
+* #### [Classes](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Classes.md)
   * #### Defining
   * #### Creating new instances
   * #### Constructing/initializing
