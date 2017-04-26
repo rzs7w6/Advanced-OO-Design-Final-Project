@@ -10,10 +10,8 @@
 * #### [Unique features of the language](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/UniqueFeatures.md)
 * #### [Name spaces](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/NameSpaces.md)
 
-* #### Types
-    * #### What types does the language support?
-    * #### Are both reference and value types supported?
-    * #### Can new value types be created?
+* #### [Types](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Types.md)
+
 * #### [Classes](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Classes.md)
 * #### Instance reference name in data type (class)
   * #### this?  self?
@@ -46,8 +44,8 @@
   * #### How is a singleton implemented?
   * #### Can it be made thread-safe?
   * #### Can the singleton instance be lazily instantiated?
-* #### Procedural programming
-  * #### Does the language support procedural programming?
+* #### [Procedural programming](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/ProceduralProgramming.md)
+
 * #### Functional programming
   * #### Does the language support functional programming?
 * #### Multithreading
