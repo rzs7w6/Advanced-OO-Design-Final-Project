@@ -33,9 +33,7 @@
   * #### Automatic reference counting?
 * #### Comparisons of references and values
   * #### How are values compared? (i.e. comparing two strings)
-* #### Null/nil references
-  * #### Which does the language use? (null/nil/etc)
-  * #### Does the language have features for handling null/nil references?
+* #### [Null/nil references](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/NullAndNilReferences.md)
 * #### Errors and exception handling
 * #### Lambda expressions, closures, or functions as types
 * #### [Implementation of listeners and event handlers](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/ListenersAndEventHandlers.md)
