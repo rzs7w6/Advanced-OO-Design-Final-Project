@@ -45,9 +45,7 @@
   * #### Can it be made thread-safe?
   * #### Can the singleton instance be lazily instantiated?
 * #### [Procedural programming](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/ProceduralProgramming.md)
-
-* #### Functional programming
-  * #### Does the language support functional programming?
+* #### [Functional programming](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/FunctionalProgramming.md)
 * #### Multithreading
   * #### Threads or thread-like abilities
   * #### How is multitasking accomplished?
