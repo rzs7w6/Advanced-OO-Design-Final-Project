@@ -13,8 +13,7 @@
 * #### [Types](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Types.md)
 
 * #### [Classes](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Classes.md)
-* #### Instance reference name in data type (class)
-  * #### this?  self?
+* #### [Instance reference name in data type (class)](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/InstanceReference.md)
 * #### Properties
   * #### Getters and setters...write your own or built in?
   * #### Backing variables?
