@@ -20,7 +20,7 @@
   * #### What does the language support?
   * #### What abilities does it have?
   * #### How is it used?
-* #### Inheritance / extension
+* #### [Inheritance / extension](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/InheritanceExtension.md)
 * #### Reflection
   * #### What reflection abilities are supported?
   * #### How is reflection used?
