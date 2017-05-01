@@ -38,13 +38,8 @@
   * #### Does the language have features for handling null/nil references?
 * #### Errors and exception handling
 * #### Lambda expressions, closures, or functions as types
-* #### Implementation of listeners and event handlers
-* #### Singleton
-  * #### How is a singleton implemented?
-  * #### Can it be made thread-safe?
-  * #### Can the singleton instance be lazily instantiated?
+* #### [Implementation of listeners and event handlers](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/ListenersAndEventHandlers.md)
+* #### [Singleton](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Singleton.md)
 * #### [Procedural programming](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/ProceduralProgramming.md)
 * #### [Functional programming](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/FunctionalProgramming.md)
-* #### Multithreading
-  * #### Threads or thread-like abilities
-  * #### How is multitasking accomplished?
+* #### [Multithreading](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/MultiThreading.md)
