@@ -21,9 +21,7 @@
   * #### What abilities does it have?
   * #### How is it used?
 * #### [Inheritance / extension](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/InheritanceExtension.md)
-* #### Reflection
-  * #### What reflection abilities are supported?
-  * #### How is reflection used?
+* #### [Reflection](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Reflection.md)
 * #### Memory management
   * #### How is it handled?
   * #### How does it work?
