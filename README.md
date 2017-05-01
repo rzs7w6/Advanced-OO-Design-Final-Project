@@ -14,10 +14,8 @@
 
 * #### [Classes](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Classes.md)
 * #### [Instance reference name in data type (class)](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/InstanceReference.md)
-* #### Properties
-  * #### Getters and setters...write your own or built in?
-  * #### Backing variables?
-  * #### Computed properties?
+* #### [Properties](https://github.com/jpm61704/Advanced-OO-Design-Final-Project/blob/master/Properties.md)
+
 * #### Interfaces / protocols
   * #### What does the language support?
   * #### What abilities does it have?
